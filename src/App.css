@@ -1,0 +1,14 @@
+body {
+  background-color: blanchedalmond;
+}
+div {
+  text-align: center;
+  border: 1px solid black;
+}
+.header {
+  font-size: 30px;
+  padding: 10px;
+}
+p {
+  padding: 30px;
+}
